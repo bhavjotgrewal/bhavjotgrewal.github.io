@@ -1,11 +1,11 @@
 body {
-    background-color: #E0E0E0
+    background-color: #ebebeb
 }
 
-h1 {
-    font-family: Arial, Helvetica, sans-serif;
+.intro {
+    font-family: arial;
 }
 
-p1 {
+.content{
     font-family: arial;
 }
